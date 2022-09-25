@@ -3,6 +3,7 @@ Repository for showcasing my projects
 
 ## Screenshots of my work
 Some screenshots of my finished projects made in Python.
+  
 **CALCULATOR**  
 ![App Screenshot](url)  
 A Tkinter Calculator app which takes a full expression and outputs the result.
