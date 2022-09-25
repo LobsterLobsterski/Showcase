@@ -1,7 +1,7 @@
 # Showcase
-Repository for showcasing my projects
+Repository for showcasing my projects most of which (if not all) are on Github.
 
-## Screenshots of my work
+## Screenshots of my Projects
 Some screenshots of my finished projects made in Python.
   
 **CALCULATOR**  
