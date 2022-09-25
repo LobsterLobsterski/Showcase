@@ -11,7 +11,7 @@ A Tkinter Calculator app which takes a full expression and outputs the result.
 ![App Screenshot](url)
 A Pygame implementation of Tetris
 
-**A* VISUALISER**
+**A STAR ALGORYTM WITH A VISUALISER**
 ![App Screenshot](url)
 A* algorythm implemented in Python and visualised with Pygame
 
