@@ -13,8 +13,8 @@ A Pygame implementation of Tetris
 <img width="378" alt="App Screenshot" src="https://user-images.githubusercontent.com/100423134/193315731-ccd14b24-c3c3-47bc-b0ff-62c5a39d65f6.PNG">  
 
 **A STAR ALGORYTM WITH A VISUALISER**  
-![App Screenshot](url)  
-A* algorythm implemented in Python and visualised with Pygame
+A* algorythm implemented in Python and visualised with Pygame  
+![recordedVideoGif](https://user-images.githubusercontent.com/100423134/193320321-03eaf210-69be-43cb-ad6f-edf5523cc88c.gif)  
 
 **PROCEDURAL DUNGEON GENERATION**  
 ![App Screenshot](url)  
