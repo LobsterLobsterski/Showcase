@@ -5,7 +5,7 @@ Repository for showcasing my projects most of which (if not all) are on Github.
 Some screenshots of my finished projects made in Python.
   
 **CALCULATOR**  
-![App Screenshot]([url](https://imgur.com/a/WeE61uX))  
+![App Screenshot](https://imgur.com/a/WeE61uX)  
 A Tkinter Calculator app which takes a full expression and outputs the result.
 
 **TETRIS**  
