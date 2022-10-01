@@ -14,7 +14,7 @@ A Pygame implementation of Tetris
 
 **A STAR ALGORYTM WITH A VISUALISER**  
 A* algorythm implemented in Python and visualised with Pygame  
-![recordedVideoGif](https://user-images.githubusercontent.com/100423134/193320321-03eaf210-69be-43cb-ad6f-edf5523cc88c.gif)  
+![recordedVideo2_Trim](https://user-images.githubusercontent.com/100423134/193408137-8a6b9f4d-b820-4b87-b7e9-cc5e1e4f136c.gif)
 
 **PROCEDURAL DUNGEON GENERATION**  
 ![App Screenshot](url)  
