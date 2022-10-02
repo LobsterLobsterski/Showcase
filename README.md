@@ -10,7 +10,7 @@ A Tkinter Calculator app which takes a full expression and outputs the result.
 
 **TETRIS**  
 A Pygame implementation of Tetris  
-
+![GIF](https://user-images.githubusercontent.com/100423134/193448430-26559278-d497-4347-b75a-666e801bc20d.gif)  
 
 **A STAR ALGORYTM WITH A VISUALISER**  
 A* algorythm implemented in Python and visualised with Pygame  
