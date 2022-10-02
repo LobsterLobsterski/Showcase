@@ -10,11 +10,11 @@ A Tkinter Calculator app which takes a full expression and outputs the result.
 
 **TETRIS**  
 A Pygame implementation of Tetris  
-![terisGif](https://user-images.githubusercontent.com/100423134/193408332-0c87f9ae-d025-41ce-8200-4dc84ceca110.gif)
+
 
 **A STAR ALGORYTM WITH A VISUALISER**  
 A* algorythm implemented in Python and visualised with Pygame  
-![recordedVideo2_Trim](https://user-images.githubusercontent.com/100423134/193408137-8a6b9f4d-b820-4b87-b7e9-cc5e1e4f136c.gif)
+
 
 **PROCEDURAL DUNGEON GENERATION**  
 Procedural Dungeon Generator with GUI created with Tkinter and Pygame  
