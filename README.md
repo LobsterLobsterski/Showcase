@@ -14,7 +14,7 @@ A Pygame implementation of Tetris
 
 **A STAR ALGORYTM WITH A VISUALISER**  
 A* algorythm implemented in Python and visualised with Pygame  
-
+![gif](https://user-images.githubusercontent.com/100423134/193448186-804773a3-5d63-43c6-901b-6dfd652eae58.gif)  
 
 **PROCEDURAL DUNGEON GENERATION**  
 Procedural Dungeon Generator with GUI created with Tkinter and Pygame  
