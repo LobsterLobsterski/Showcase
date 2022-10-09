@@ -18,7 +18,7 @@ A* algorythm implemented in Python and visualised with Pygame
 
 **PROCEDURAL DUNGEON GENERATION**  
 Procedural Dungeon Generator with GUI created with Tkinter and Pygame  
-![recordedVideo_Trim](https://user-images.githubusercontent.com/100423134/193447770-e18dceeb-bcf8-46be-8b8c-984f3e200ae9.gif)   
+![recordedVideo](https://user-images.githubusercontent.com/100423134/194754592-a30e4189-cc10-46e1-a7d4-f92a70f636fd.gif)   
 Some maps created by the generator:  
 <img width="1920" alt="Maps" src="https://user-images.githubusercontent.com/100423134/194754311-e98b3613-2ea7-456a-915a-d83f370c48bd.png">
 The App Can be download from my google drive: 
