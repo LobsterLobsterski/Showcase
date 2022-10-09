@@ -21,6 +21,6 @@ Procedural Dungeon Generator with GUI created with Tkinter and Pygame
 ![recordedVideo](https://user-images.githubusercontent.com/100423134/194754592-a30e4189-cc10-46e1-a7d4-f92a70f636fd.gif)   
 Some maps created by the generator:  
 <img width="1920" alt="Maps" src="https://user-images.githubusercontent.com/100423134/194754311-e98b3613-2ea7-456a-915a-d83f370c48bd.png">
-The App Can be download from my google drive:  
-[ <link>](https://drive.google.com/file/d/1SwB_Pxa6NTAKKXmRZG7rq4rH3D9YEVH-/view?usp=sharing)
+The App Can be download from my [here] (https://drive.google.com/file/d/1SwB_Pxa6NTAKKXmRZG7rq4rH3D9YEVH-/view?usp=sharing)
+ or https://drive.google.com/file/d/1SwB_Pxa6NTAKKXmRZG7rq4rH3D9YEVH-/view?usp=sharing
 
